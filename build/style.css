@@ -1,0 +1,6 @@
+h2 { font-family: Helvetica, serif; }
+
+strong { color: #c7254e; }
+p { color: black; margin-left: 30%; margin-bottom: 20px; }
+
+#map { height: 600px; width: 600px; margin-left: 30%; margin-bottom: 20px; }
